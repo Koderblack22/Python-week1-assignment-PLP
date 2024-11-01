@@ -9,6 +9,4 @@ Print out a personalized message using the user's name, age, and location. For e
 Save and run the program to see the output.
 
 
-
-
 Note: Upload the code to github and submit the github link
